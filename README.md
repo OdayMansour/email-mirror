@@ -76,7 +76,7 @@ The following properties can be configured:
 			</td>
 		</tr>
 		<tr>
-			<td><code>post</code></td>
+			<td><code>port</code></td>
 			<td>Port that imap uses
 				<br><b>Default value:</b> <code>993</code>
 			</td>
